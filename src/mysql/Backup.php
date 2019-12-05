@@ -1,10 +1,10 @@
 <?php
 
-namespace lotofbadcode\phpextend\databackup\mysql;
+namespace phpspirit\databackup\mysql;
 
 use PDO;
 use Exception;
-use lotofbadcode\phpextend\databackup\IBackup;
+use phpspirit\databackup\IBackup;
 
 class Backup implements IBackup
 {

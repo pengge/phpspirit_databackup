@@ -1,7 +1,7 @@
 {
     "name": "lotofbadcode/phpspirit_databackup",
     "description": "一个PHP数据库备份恢复的插件",
-	"license": "Apache-2.0",
+    "license": "Apache-2.0",
     "type": "library",
     "keywords": [
         "php",
@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "lotofbadcode\\phpspirit_databackup\\": "src/"  
+            "phpspirit\\databackup\\": "src/"
         }
     }
 }

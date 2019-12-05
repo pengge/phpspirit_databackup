@@ -1,10 +1,10 @@
 <?php
 
-namespace lotofbadcode\phpextend\databackup\mysql;
+namespace phpspirit\databackup\mysql;
 
 use PDO;
 use Exception;
-use lotofbadcode\phpextend\databackup\IRecovery;
+use phpspirit\databackup\IRecovery;
 
 
 class Recovery implements IRecovery

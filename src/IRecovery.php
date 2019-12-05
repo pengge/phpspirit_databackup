@@ -1,6 +1,6 @@
 <?php
 
-namespace  lotofbadcode\phpextend\databackup;
+namespace  phpspirit\databackup;
 
 interface IRecovery
 {

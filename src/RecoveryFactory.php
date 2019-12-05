@@ -1,8 +1,8 @@
 <?php
 
-namespace lotofbadcode\phpextend\databackup;
+namespace phpspirit\databackup;
 
-use lotofbadcode\phpextend\databackup\mysql\Recovery;
+use phpspirit\databackup\mysql\Recovery;
 use PDO;
 
 class RecoveryFactory

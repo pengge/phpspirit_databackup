@@ -1,8 +1,8 @@
 <?php
 
-namespace lotofbadcode\phpextend\databackup;
+namespace phpspirit\databackup;
 
-use lotofbadcode\phpextend\databackup\mysql\Backup;
+use phpspirit\databackup\mysql\Backup;
 use PDO;
 class BackupFactory
 {
